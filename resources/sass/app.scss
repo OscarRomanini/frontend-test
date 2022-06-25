@@ -1,0 +1,32 @@
+@import "materialize-css/sass/materialize";
+
+body {
+    background: #f9f9f9;
+}
+
+.p5 {
+    padding:20px;
+    margin: 50px;
+}
+
+
+.error-message {
+    color: red;
+    font-size: 10pt;
+}
+
+.modal {
+    height: 40% !important ;
+}
+
+
+@media (max-width: 768px) {
+    .btn-floating {
+        transform: scale(0.9);
+    }
+
+    .p5 {
+        padding:10px;
+        margin: 15px;
+    }
+}
