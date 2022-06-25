@@ -5,3 +5,6 @@
 - RENAME THE .env.example file to .env 
 - TO RUN THE APP, FOLLOW THE INSTRUCTIONS ON "api-test" FOLDER;
 - MAKE SURE YOU HAVE "api-test" AND "front-test" FOLDERS ON SAME DIRECTORY. 
+- MAKE SURE YOU'RE IN BRANCH MASTER ON BOTH APPS
+- RUN composer install on terminal
+- RUN npm run dev on terminal
